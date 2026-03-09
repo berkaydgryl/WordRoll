@@ -1,0 +1,404 @@
+{
+    "A1": [
+        {
+            "word": "Apple",
+            "meaning": "Elma",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "A round fruit with red, green, or yellow skin.",
+                    "translation": "Kırmızı, yeşil veya sarı kabuklu yuvarlak bir meyve.",
+                    "example": "I like eating red apples.",
+                    "exampleTr": "Kırmızı elma yemeyi severim."
+                },
+                {
+                    "definition": "The tree which bears apples.",
+                    "translation": "Elma veren ağaç.",
+                    "example": "The apple tree is in the garden.",
+                    "exampleTr": "Elma ağacı bahçede."
+                }
+            ]
+        },
+        {
+            "word": "Book",
+            "meaning": "Kitap",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "A written work published in printed or electronic form.",
+                    "translation": "Basılı veya elektronik formda yayınlanmış yazılı eser.",
+                    "example": "I am reading a story book.",
+                    "exampleTr": "Bir hikaye kitabı okuyorum."
+                },
+                {
+                    "definition": "To reserve something in advance.",
+                    "translation": "Bir şeyi önceden ayırtmak.",
+                    "example": "I need to book a hotel room.",
+                    "exampleTr": "Bir otel odası ayırtmam gerekiyor."
+                }
+            ]
+        },
+        {
+            "word": "Friend",
+            "meaning": "Arkadaş",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "A person with whom one has a bond of mutual affection.",
+                    "translation": "Karşılıklı sevgi bağı olan kişi.",
+                    "example": "He is my best friend.",
+                    "exampleTr": "O benim en iyi arkadaşım."
+                },
+                {
+                    "definition": "A supporter or sympathizer.",
+                    "translation": "Bir destekçi veya sempatizan.",
+                    "example": "She is a friend of the arts.",
+                    "exampleTr": "Sanata gönül vermiş biridir."
+                }
+            ]
+        },
+        {
+            "word": "Water",
+            "meaning": "Su",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "A colorless liquid essential for living beings.",
+                    "translation": "Canlılar için gerekli renksiz sıvı.",
+                    "example": "Can I have some water?",
+                    "exampleTr": "Biraz su alabilir miyim?"
+                },
+                {
+                    "definition": "To pour water on plants.",
+                    "translation": "Bitkilere su vermek.",
+                    "example": "She waters the garden every morning.",
+                    "exampleTr": "Her sabah bahçeyi sular."
+                }
+            ]
+        },
+        {
+            "word": "Happy",
+            "meaning": "Mutlu",
+            "type": "Adjective",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "Feeling or showing pleasure or contentment.",
+                    "translation": "Memnuniyet hissetmek veya göstermek.",
+                    "example": "She looks very happy today.",
+                    "exampleTr": "Bugün çok mutlu görünüyor."
+                },
+                {
+                    "definition": "Fortunate and convenient.",
+                    "translation": "Şanslı ve uygun.",
+                    "example": "By a happy coincidence, we met.",
+                    "exampleTr": "Mutlu bir tesadüf eseri buluştuk."
+                }
+            ]
+        },
+        {
+            "word": "Dog",
+            "meaning": "Köpek",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "A domesticated carnivorous mammal.",
+                    "translation": "Evcilleştirilmiş etçil bir memeli.",
+                    "example": "My dog loves to play in the park.",
+                    "exampleTr": "Köpeğim parkta oynamayı seviyor."
+                },
+                {
+                    "definition": "To follow someone closely.",
+                    "translation": "Birini yakından takip etmek.",
+                    "example": "Bad luck has been dogging him.",
+                    "exampleTr": "Kötü şans onun peşini bırakmıyor."
+                }
+            ]
+        },
+        {
+            "word": "Eat",
+            "meaning": "Yemek",
+            "type": "Verb",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "To consume food.",
+                    "translation": "Yiyecek tüketmek.",
+                    "example": "We eat breakfast at seven.",
+                    "exampleTr": "Yedide kahvaltı yaparız."
+                },
+                {
+                    "definition": "To erode or destroy.",
+                    "translation": "Aşındırmak veya yok etmek.",
+                    "example": "Rust has eaten away the metal.",
+                    "exampleTr": "Pas metali aşındırdı."
+                }
+            ]
+        },
+        {
+            "word": "School",
+            "meaning": "Okul",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "An institution for educating children.",
+                    "translation": "Çocukları eğitmek için kurulan kurum.",
+                    "example": "The children go to school every day.",
+                    "exampleTr": "Çocuklar her gün okula gider."
+                },
+                {
+                    "definition": "A group of fish swimming together.",
+                    "translation": "Birlikte yüzen bir balık grubu.",
+                    "example": "A school of fish swam past us.",
+                    "exampleTr": "Bir balık sürüsü yanımızdan geçti."
+                }
+            ]
+        },
+        {
+            "word": "Run",
+            "meaning": "Koşmak",
+            "type": "Verb",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "To move at a speed faster than walking.",
+                    "translation": "Yürümekten daha hızlı hareket etmek.",
+                    "example": "The children run in the playground.",
+                    "exampleTr": "Çocuklar oyun alanında koşar."
+                },
+                {
+                    "definition": "To manage or operate.",
+                    "translation": "Yönetmek veya işletmek.",
+                    "example": "She runs a small business.",
+                    "exampleTr": "Küçük bir işletme yönetiyor."
+                }
+            ]
+        },
+        {
+            "word": "House",
+            "meaning": "Ev",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "A building for human habitation.",
+                    "translation": "İnsan barınması için yapılan bina.",
+                    "example": "They live in a big house.",
+                    "exampleTr": "Büyük bir evde yaşıyorlar."
+                },
+                {
+                    "definition": "To provide shelter or accommodation.",
+                    "translation": "Barınak veya konaklama sağlamak.",
+                    "example": "The building houses a museum.",
+                    "exampleTr": "Bina bir müzeye ev sahipliği yapıyor."
+                }
+            ]
+        },
+        {
+            "word": "Play",
+            "meaning": "Oynamak",
+            "type": "Verb",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "To engage in activity for enjoyment.",
+                    "translation": "Eğlence için bir faaliyete katılmak.",
+                    "example": "The kids play in the garden.",
+                    "exampleTr": "Çocuklar bahçede oynar."
+                },
+                {
+                    "definition": "A dramatic work for the stage.",
+                    "translation": "Sahne için yazılmış bir tiyatro eseri.",
+                    "example": "We saw a play at the theater.",
+                    "exampleTr": "Tiyatroda bir oyun izledik."
+                }
+            ]
+        },
+        {
+            "word": "See",
+            "meaning": "Görmek",
+            "type": "Verb",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "To perceive with the eyes.",
+                    "translation": "Gözlerle algılamak.",
+                    "example": "I can see the mountains from here.",
+                    "exampleTr": "Buradan dağları görebiliyorum."
+                },
+                {
+                    "definition": "To understand or realize.",
+                    "translation": "Anlamak veya fark etmek.",
+                    "example": "I see what you mean.",
+                    "exampleTr": "Ne demek istediğini anlıyorum."
+                }
+            ]
+        },
+        {
+            "word": "Good",
+            "meaning": "İyi",
+            "type": "Adjective",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "Of a high quality or standard.",
+                    "translation": "Yüksek kalite veya standarda sahip.",
+                    "example": "This is a good restaurant.",
+                    "exampleTr": "Bu iyi bir restoran."
+                },
+                {
+                    "definition": "Having the qualities required for a particular role.",
+                    "translation": "Belirli bir rol için gerekli niteliklere sahip.",
+                    "example": "She is good at mathematics.",
+                    "exampleTr": "Matematikte iyidir."
+                }
+            ]
+        },
+        {
+            "word": "Big",
+            "meaning": "Büyük",
+            "type": "Adjective",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "Of considerable size or extent.",
+                    "translation": "Kayda değer boyut veya genişlikte.",
+                    "example": "They have a big garden.",
+                    "exampleTr": "Büyük bir bahçeleri var."
+                },
+                {
+                    "definition": "Of considerable importance or seriousness.",
+                    "translation": "Kayda değer önem veya ciddiyette.",
+                    "example": "This is a big decision to make.",
+                    "exampleTr": "Bu verilecek büyük bir karar."
+                }
+            ]
+        },
+        {
+            "word": "Help",
+            "meaning": "Yardım",
+            "type": "Verb/Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "To assist someone.",
+                    "translation": "Birine yardım etmek.",
+                    "example": "Can you help me, please?",
+                    "exampleTr": "Bana yardım eder misiniz, lütfen?"
+                },
+                {
+                    "definition": "To be of use or advantage.",
+                    "translation": "Faydalı veya avantajlı olmak.",
+                    "example": "It helps to study every day.",
+                    "exampleTr": "Her gün çalışmak faydalıdır."
+                }
+            ]
+        },
+        {
+            "word": "Come",
+            "meaning": "Gelmek",
+            "type": "Verb",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "To move toward or arrive at a place.",
+                    "translation": "Bir yere doğru hareket etmek veya varmak.",
+                    "example": "Come to my house tonight.",
+                    "exampleTr": "Bu gece evime gel."
+                },
+                {
+                    "definition": "To happen or occur.",
+                    "translation": "Olmak veya meydana gelmek.",
+                    "example": "Spring comes after winter.",
+                    "exampleTr": "İlkbahar kıştan sonra gelir."
+                }
+            ]
+        },
+        {
+            "word": "Day",
+            "meaning": "Gün",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "A period of twenty-four hours.",
+                    "translation": "Yirmi dört saatlik zaman dilimi.",
+                    "example": "Today is a beautiful day.",
+                    "exampleTr": "Bugün güzel bir gün."
+                },
+                {
+                    "definition": "The time between sunrise and sunset.",
+                    "translation": "Gün doğumu ile gün batımı arasındaki zaman.",
+                    "example": "We worked all day long.",
+                    "exampleTr": "Bütün gün çalıştık."
+                }
+            ]
+        },
+        {
+            "word": "Love",
+            "meaning": "Sevmek / Aşk",
+            "type": "Verb/Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "A deep feeling of affection.",
+                    "translation": "Derin bir sevgi hissi.",
+                    "example": "She has great love for her family.",
+                    "exampleTr": "Ailesine karşı büyük bir sevgisi var."
+                },
+                {
+                    "definition": "To feel deep affection for someone.",
+                    "translation": "Birine karşı derin sevgi duymak.",
+                    "example": "I love reading books.",
+                    "exampleTr": "Kitap okumayı seviyorum."
+                }
+            ]
+        },
+        {
+            "word": "Time",
+            "meaning": "Zaman",
+            "type": "Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "The indefinite continued progress of existence.",
+                    "translation": "Varlığın belirsiz sürekli ilerleyişi.",
+                    "example": "Time goes by quickly.",
+                    "exampleTr": "Zaman çabuk geçiyor."
+                },
+                {
+                    "definition": "A specific period or occasion.",
+                    "translation": "Belirli bir dönem veya vesile.",
+                    "example": "What time is it?",
+                    "exampleTr": "Saat kaç?"
+                }
+            ]
+        },
+        {
+            "word": "Work",
+            "meaning": "Çalışmak / İş",
+            "type": "Verb/Noun",
+            "level": "A1",
+            "definitions": [
+                {
+                    "definition": "Activity involving mental or physical effort.",
+                    "translation": "Zihinsel veya fiziksel çaba gerektiren faaliyet.",
+                    "example": "Hard work leads to success.",
+                    "exampleTr": "Sıkı çalışma başarıya götürür."
+                },
+                {
+                    "definition": "To function or operate.",
+                    "translation": "İşlemek veya çalışmak.",
+                    "example": "Does this phone work?",
+                    "exampleTr": "Bu telefon çalışıyor mu?"
+                }
+            ]
+        }
+    ]
+}
