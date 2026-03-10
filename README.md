@@ -68,7 +68,7 @@ Ayarlar paneli, WordRoll deneyiminizi tamamen size özel hale getirmenizi sağla
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/wordroll.git
+   git clone https://github.com/berkaydgryl/wordroll.git
    ```
 2. Bağımlılıkları yükleyin:
    ```bash
